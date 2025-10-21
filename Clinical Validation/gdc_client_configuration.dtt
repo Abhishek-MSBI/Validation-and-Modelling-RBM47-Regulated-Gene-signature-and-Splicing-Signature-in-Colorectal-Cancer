@@ -1,0 +1,3 @@
+[download]
+retry_amount = 6
+dir =GDCdata/TCGA-COAD/Transcriptome_Profiling/Splice_Junction_Quantification
