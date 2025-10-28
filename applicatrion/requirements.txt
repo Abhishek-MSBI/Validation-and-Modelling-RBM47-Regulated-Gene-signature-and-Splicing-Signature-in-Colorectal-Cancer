@@ -1,0 +1,5 @@
+gradio==4.31.5
+pandas
+joblib
+scikit-learn
+scikit-survival==0.23.0
